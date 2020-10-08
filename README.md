@@ -15,3 +15,9 @@
 
 - An average of three games is played. You determine a 3 game average by adding
   all 3 scores and then dividing that number by 3.
+
+# Setup
+
+- A recent version of [Node](https://nodejs.org/en/download/)
+- [VSCode Live Share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+- Yarn (`brew install yarn`)
